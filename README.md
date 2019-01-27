@@ -5,9 +5,7 @@ The model included with the code is the Decoder of an AAE trained on Ganesha pai
 
 ## Running Script
 
-'''
-$ python3 gui.py
-'''
+In terminal: <code> $ python3 gui.py </code>
 
 ## Model
 
