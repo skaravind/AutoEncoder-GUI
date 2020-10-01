@@ -1,7 +1,7 @@
 # AutoEncoder-GUI
 A GUI (Python3) for manually changing latent dimensions of an Adversarial AutoEncoder. Its made using Tkinter
 
-The model included with the code is the Decoder of an AAE trained on Ganesha paintings (or should i say GANesha ;P)
+The model included with the code is the Decoder of an AAE trained on LordGanesha paintings (or should i say LORDGANESHA ;P)
 
 ## Running Script
 
